@@ -8,7 +8,7 @@ public interface GuideContract {
         /**
          * 跳转登入界面
          */
-        void  toLoginView();
+        void toLoginView();
     }
 
     /**
